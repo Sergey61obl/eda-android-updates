@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/Sergey61obl/eda-android-updates/releases/download/v1.1/CozyDinner.apk",
-  "sha256": "3b31106452e51aee06eed47293d57caa419f10ec9f9df7fd8bad858e6e4cb0bd",
-  "notes": "Компактные подсказки ингредиентов, ускоренный онлайн-поиск и обновление прямо из приложения."
+    "apkUrl":  "https://github.com/Sergey61obl/eda-android-updates/releases/download/v1.2/CozyDinner.apk",
+    "sha256":  "579f2d5bbf149ab6ddef746877dfa7de7b45d90ad66171616b7c5a38771421ad",
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "notes":  "Исправлен перевод онлайн-рецептов, ускорен подбор TheMealDB и улучшены подсказки в «Холодильнике»."
 }
