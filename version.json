@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sergey61obl/eda-android-updates/releases/download/v0.1.6/CozyDinner.apk",
-    "sha256":  "8a824575eecbfa1c35cbbed06fb620623015cf10926c9185ae450b4939ed121b",
-    "versionCode":  7,
-    "versionName":  "0.1.6",
-    "notes":  "Бета 0.1.6: откат выбора сразу меняет блюдо, кнопка на месте действий."
+    "apkUrl":  "https://github.com/Sergey61obl/eda-android-updates/releases/download/v0.1.7/CozyDinner.apk",
+    "sha256":  "f1860b693b94f8fc2b9e96a6a424a0b5a8bd7e11df7bf31a4b823deb2ee693e1",
+    "versionCode":  8,
+    "versionName":  "0.1.7",
+    "notes":  "Бета 0.1.7: исправления рецептов (дубль Оливье, OCR, нулевые количества)."
 }
