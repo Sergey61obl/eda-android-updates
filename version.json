@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sergey61obl/eda-android-updates/releases/download/v0.1.7/CozyDinner.apk",
-    "sha256":  "f1860b693b94f8fc2b9e96a6a424a0b5a8bd7e11df7bf31a4b823deb2ee693e1",
-    "versionCode":  8,
-    "versionName":  "0.1.7",
-    "notes":  "Бета 0.1.7: исправления рецептов (дубль Оливье, OCR, нулевые количества)."
+    "apkUrl":  "https://github.com/Sergey61obl/eda-android-updates/releases/download/v0.1.8/CozyDinner.apk",
+    "sha256":  "5b0fc47bdb50aaac314ffa2835294f4ca2821271f6b330203084673e17700bea",
+    "versionCode":  9,
+    "versionName":  "0.1.8",
+    "notes":  "Бета 0.1.8: валидация диет, счётчик исключений, округление количеств, время и сложность."
 }
