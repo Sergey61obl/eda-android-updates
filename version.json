@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Sergey61obl/eda-android-updates/releases/download/v0.1.8/CozyDinner.apk",
-    "sha256":  "5b0fc47bdb50aaac314ffa2835294f4ca2821271f6b330203084673e17700bea",
-    "versionCode":  9,
-    "versionName":  "0.1.8",
-    "notes":  "Бета 0.1.8: валидация диет, счётчик исключений, округление количеств, время и сложность."
+  "versionCode": 10,
+  "versionName": "0.1.9",
+  "apkUrl": "https://github.com/Sergey61obl/eda-android-updates/releases/download/v0.1.9/CozyDinner.apk",
+  "sha256": "b25e38f5694a0a6b25c932b82bbc2baa2515cc2e3ee68d791f5da8fbc05bb436",
+  "notes": "Бета 0.1.9: быстрый подбор без ожидания сети, пагинация холодильника, расширенные инструкции рецептов, внешние ссылки в браузере."
 }
